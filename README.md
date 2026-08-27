@@ -4,6 +4,6 @@ This repository contains exercises and tasks covering the basics of Python for i
 
 Topics Covered
 Basic NumPy exercises
-Loading images using OpenCV and PIL
-Image storing and saving
-Displaying images as arrays
+,Loading images using OpenCV and PIL
+,Image storing and saving
+,Displaying images as arrays.
